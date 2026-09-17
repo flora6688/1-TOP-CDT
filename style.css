@@ -107,3 +107,7 @@ span.section-label:before{border-color:var(--champagne)}
 .contact-email span{color:#a28a55}
 .us-registration:before{background:linear-gradient(90deg,#a88f59,#decfa9 70%,#243b56)}
 .us-card-rule:after{background:#bca778}
+
+/* Four services in a balanced two-by-two layout. */
+.business-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.business-card,.business-card:first-child,.business-card:nth-child(2),.business-card:last-child{grid-column:auto}
+@media(max-width:640px){.business-grid{grid-template-columns:1fr}}

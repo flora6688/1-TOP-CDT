@@ -1,5 +1,7 @@
 # TOP CDT 官网
-1. Top CDT Technology Ltd (BVI主体) 正在申请BVI的VASP牌照和加拿大MSB
-网站：Topctd.global  Topctd.com
-要求：（1）前期：企业展示网站 （2）在获得VASP牌照后：改为加密货币现货 法币 信用卡 资产管理业务
+
+上传 index.html、style.css、script.js 和 assets 文件夹至 GitHub 仓库根目录。
+
+中英文企业官网，包含公司介绍、业务服务、支付场景、常见问题、联系邮箱及注册信息。
+
 联系邮箱：legal@topu.com
